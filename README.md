@@ -81,6 +81,20 @@ The playbook common.yml is updated with the code below:\
         state: latest
   ```
 
+In the next phase, the git is updated with some code and files updated as shown below:\
+<img width="642" alt="file-add" src="https://user-images.githubusercontent.com/61512079/196562317-d30b358c-7619-44a2-81ed-e002f1e0faad.PNG">
+
+<img width="631" alt="file-upload-commit" src="https://user-images.githubusercontent.com/61512079/196562333-3bce2b2a-6551-41c7-9d20-217349fba399.PNG">
+
+A new Pull request was created to push the changes done on the VS code locally to Github and also merge the feature branch with the Main branch as shown:\
+<img width="811" alt="Pull-Request" src="https://user-images.githubusercontent.com/61512079/196565237-6b8fae08-08ec-4686-b6b8-8260ef7e8254.PNG">
+
+<img width="540" alt="Pull-Request-Merge" src="https://user-images.githubusercontent.com/61512079/196565080-3fd9d2d4-6324-4f68-932e-3408ec22a8ec.PNG">
+
+The update on the github is also seen on the Jenkinns workspace as shown below:\
+<img width="616" alt="jenkins-updates" src="https://user-images.githubusercontent.com/61512079/196565196-dd5e0b28-3625-4199-9a15-546d391a9a40.PNG">
+
+
 
 
 
